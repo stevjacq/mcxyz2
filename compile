@@ -1,0 +1,2 @@
+echo 'cc -o gomcxyz mcxyz.c'
+cc -o gomcxyz mcxyz.c
